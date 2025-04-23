@@ -9,13 +9,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fdg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----<br>
-[![](https://visitcount.itsvg.in/api?id=fdg&icon=2&color=5)](https://visitcount.itsvg.in)
-
-
 ## 📜 Certifications
 
 - [Coursera: Play It Safe: Manage Security Risks](https://coursera.org/share/29640cb2bd8b557906b1f951bd4547fd)
 - [Coursera: Foundations of Cybersecurity](https://coursera.org/share/adeff089c95ea83de250ebdc7bdb99e7)
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---<br>
