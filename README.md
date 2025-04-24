@@ -6,16 +6,16 @@
   - Python Sentiment Analysis w/ Scikit-learn
   - Learning Cybersecurity at Coursera 
 - 🌍 Active in tech communities like Bicol IT, SSC, and Cheerz!  
-- 🎤 Occasionally volunteers at IT events to meet cool people & level up  
+- 🎤 Occasionally volunteers at IT events to meet cool people & level up  +
 - 🔧 Always building, always experimenting, always learning  
 
 
 ---
-### 🧰 Tech Stack
+<div align="center">
+
+## 🧰 Tech Stack
 
 <div align="left">
-
-<br/>
 
 ### ⚙️ Backend  
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
