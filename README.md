@@ -6,8 +6,8 @@
   - Python Sentiment Analysis w/ Scikit-learn
   - Learning Cybersecurity at Coursera 
 - 🌍 Active in tech communities like Bicol IT, SSC, and Cheerz!  
-- 🎤 Occasionally volunteers at IT events to meet cool people & level up  +
-- 🔧 Always building, always experimenting, always learning  
+- 🎤 Occasionally volunteers at IT events to meet cool people & level up
+- 🔧 Always building, always experimenting, always learning.
 
 
 ---
