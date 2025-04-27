@@ -9,7 +9,7 @@
 - 🎤 Occasionally volunteers at IT events to meet cool people & level up
 - 🔧 Always building, always experimenting, always learning.
 
-
+   
 ---
 <div align="center">
 
@@ -84,8 +84,10 @@
 
 ## 📜 Certifications
 
-- [Coursera: Play It Safe: Manage Security Risks](https://coursera.org/share/29640cb2bd8b557906b1f951bd4547fd)
-- [Coursera: Foundations of Cybersecurity](https://coursera.org/share/adeff089c95ea83de250ebdc7bdb99e7)
+[Coursera: Play It Safe: Manage Security Risks](https://coursera.org/share/29640cb2bd8b557906b1f951bd4547fd)
+
+
+[Coursera: Foundations of Cybersecurity](https://coursera.org/share/adeff089c95ea83de250ebdc7bdb99e7)
 
 
 <br/>
