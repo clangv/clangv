@@ -1,4 +1,4 @@
-### ✨ Quick Highlights
+### ✨ Quick Highlights!
 
 - 🎓 Computer Science student learning by doing — one project at a time  
 - 🧠 Exploring web dev, AI, games, blockchain, and all sorts of fun tech ideas  
