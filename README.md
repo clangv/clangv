@@ -4,7 +4,7 @@
 - 🧠 Exploring web dev, AI, games, blockchain, and all sorts of fun tech ideas  
 - 👩‍💻 Currently working on: 
   - Web scraping with Scrapy and MongoDB
-  - Learning Cybersecurity at Coursera
+  - Learning Cybersecurity at Coursera.
 - 🌍 Active in tech communities like Bicol IT, and Cheerz!  
 - 🎤 Occasionally volunteers at IT events to meet cool people & level up
 - 🔧 Always building, always experimenting, always learning.
