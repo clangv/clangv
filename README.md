@@ -5,7 +5,7 @@
 - 👩‍💻 Currently working on: 
   - Scrape with Python & Selenium Webdriver
   - Learning Cybersecurity at Coursera
-- 🌍 Active in tech communities like Bicol IT, and Cheerz!  
+- 🌍 Active in tech communities like Bicol IT, and Cheerz
 - 🎤 Occasionally volunteers at IT events to meet cool people & level up
 - 🔧 Always building, always experimenting, always learning.
 
