@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science student learning by doing — one project at a time  
 - 🧠 Exploring web dev, AI, games, blockchain, and all sorts of fun tech ideas
-- 👩‍💻 Currently working on: 
+- 👩‍💻 Currently working on:
   - Scrape with Python & Selenium Webdriver
   - Learning Cybersecurity at Coursera
 - 🌍 Active in tech communities like Bicol IT, and Cheerz
