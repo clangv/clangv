@@ -1,7 +1,7 @@
 ### ✨ Quick Highlights!
 
 - 🎓 Computer Science graduate learning by doing one project at a time.
-- 🧠 Exploring web dev, AI, games, blockchain, and all sorts of fun tech ideas
+- 🧠 Exploring web dev, AI, games, blockchain, and all sorts of fun tech ideas.
 - 🌍 Active in tech communities like Bicol IT, and Cheerz.
 - 🎤 Occasionally volunteers at IT events to meet cool people & level up
 - 🔧 Always building, always experimenting, always learning.
