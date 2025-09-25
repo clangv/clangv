@@ -5,8 +5,7 @@
 - 🌍 Active in tech communities like Bicol IT, and Cheerz.
 - 🎤 Occasionally volunteers at IT events to meet cool people & level up
 - 🔧 Always building, always experimenting, always learning.
-
-   
+  
 ---
 <div align="center">
 
