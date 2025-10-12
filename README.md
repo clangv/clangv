@@ -6,11 +6,10 @@
   <h1>HI THERE! I AM CLANG 👋</h1>
   
 💻 I'm a **DevOps Engineer** at Quanby Solution Inc. <br>
+👩🏻‍💻 Also a part-timer at **HSJ Technologies**<br>
 🧠 I build innovative **AI and IoT solutions**. <br>
 💜 I love **exploring and learning** new tech! <br>
 ✨ Feel free to connect—I'm always open to discussing new opportunities or collaborations! 
-
-
 ---
 <div align="center">
 
