@@ -1,11 +1,16 @@
-### ✨ Quick Highlights!
-
-- 🎓 Computer Science graduate learning by doing one project at a time
-- 🧠 Exploring web dev, AI, games, blockchain, and all sorts of fun tech ideas.
-- 🌍 Active in tech communities like Bicol IT, and Cheerz.
-- 🎤 Occasionally volunteers at IT events to meet cool people & level up
-- 🔧 Always building, always experimenting, always learning.
+<div align="center">
   
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxnM2xkenAyNnhhZTV6NnZjeHRud2lzMGhzN2dvbzZlenkwN2twZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWYCsagy98neM/giphy.gif" />
+  </div>
+  
+  <h1>HI THERE! I AM CLANG 👋</h1>
+  
+💻 I'm a **DevOps Engineer** at Quanby Solution Inc. <br>
+🧠 I build innovative **AI and IoT solutions**. <br>
+💜 I love **exploring and learning** new tech! <br>
+✨ Feel free to connect—I'm always open to discussing new opportunities or collaborations! 
+
+
 ---
 <div align="center">
 
