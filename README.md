@@ -1,6 +1,7 @@
 <div align="center">
   
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxnM2xkenAyNnhhZTV6NnZjeHRud2lzMGhzN2dvbzZlenkwN2twZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWYCsagy98neM/giphy.gif" />
+  <img
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxnM2xkenAyNnhhZTV6NnZjeHRud2lzMGhzN2dvbzZlenkwN2twZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWYCsagy98neM/giphy.gif" />
   </div>
   
   <h1>HI THERE! I AM CLANG 👋 </h1>
