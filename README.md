@@ -12,7 +12,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxnM2xkenAyNnhhZTV6NnZje
 
 🧠 I build innovative **AI and IoT solutions**. <br>
 
-💜 I love **exploring and learning** new tech! <br>
+💜 I love **exploring and learning** new tech!<br>
 
 ✨ Feel free to connect—I'm always open to discussing new opportunities or collaborations! 
 ---
