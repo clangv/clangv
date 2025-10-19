@@ -24,7 +24,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxnM2xkenAyNnhhZTV6NnZje
 
 
 ### ⚙️ Backend  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
  
 ### 🐧 Operating Systems  
