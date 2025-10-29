@@ -1,8 +1,24 @@
-<div align="center"> 
-  
-  <img
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxnM2xkenAyNnhhZTV6NnZjeHRud2lzMGhzN2dvbzZlenkwN2twZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWYCsagy98neM/giphy.gif" />
-  </div>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxnM2xkenAyNnhhZTV6NnZjeHRud2lzMGhzN2dvbzZlenkwN2twZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWYCsagy98neM/giphy.gif"
+           alt="Online Demo"
+           width="350"
+           height="auto" />
+    </td>
+    <td align="center">
+      <img src="./sap.gif"
+           alt="Local Demo"
+           width="350"
+           height="300" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
   
   <h1>HI THERE! I AM CLANG 👋</h1>
   
