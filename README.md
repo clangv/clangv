@@ -6,7 +6,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxnM2xkenAyNnhhZTV6NnZje
   
   <h1>HI THERE! I AM CLANG 👋</h1>
   
-💻 I'm a **DevOps Engineer** at Quanby Solution Inc. <br>
+💻 I'm a **DevOps Engineer** at Quanby Solution Inc <br>
 
 👩🏻‍💻 Also a part-timer at **HSJ Technologies**<br>
 
