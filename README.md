@@ -26,6 +26,7 @@
 
 👩🏻‍💻 Also a part-timer at **HSJ Technologies**<br>
 
+
 🧠 I build innovative **AI and IoT solutions**. <br>
 
 💜 I love **exploring and learning** new tech!<br>
