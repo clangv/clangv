@@ -11,8 +11,8 @@
     <td align="center">
       <img src="./sap.gif"
            alt="Local Demo"
-           width="250"
-           height="200" />
+           width="150"
+           height="110" />
     </td>
   </tr>
 </table>
