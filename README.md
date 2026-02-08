@@ -22,7 +22,7 @@
   
   <h1>HI THERE! I AM CLANG 👋</h1>
 
-💻 I'm a **Full Stack Developer** at Department of Social Welfare and Development-ICTMS <br>
+💻 I'm a **Frontend Developer** at Department of Social Welfare and Development-ICTMS <br>
   
 💻 I'm previous **Junior DevOps Engineer** at Quanby Solution Inc <br>
 
